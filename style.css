@@ -251,6 +251,9 @@ img.portfolio{
     .col-contenu{
         width: 100%;
     }
+    img.col-contenu{
+        width:100%;
+    }
     div.col-contenu{
         width: 100%;
         padding-left: 0px;
